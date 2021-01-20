@@ -1,3 +1,7 @@
 header, footer {
     background-color: #8a2be2
 }
+
+img {
+    float: right
+}
